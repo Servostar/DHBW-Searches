@@ -1,0 +1,3 @@
+/home/teridax/Projects/c-dhbw/search/CMakeFiles/Main.dir
+/home/teridax/Projects/c-dhbw/search/CMakeFiles/edit_cache.dir
+/home/teridax/Projects/c-dhbw/search/CMakeFiles/rebuild_cache.dir

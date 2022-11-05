@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/Main.dir/src/main.c.o CMakeFiles/Main.dir/src/search.c.o CMakeFiles/Main.dir/src/bench.c.o -o Main 
