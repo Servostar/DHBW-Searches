@@ -1,4 +1,8 @@
 # DHBW-Searches
+
+> NOTE:
+> Repository has been moved to: https://git.teridax.de/DHBW/C-Programming
+
 Programm to compare the runtime of naive, kmp and boyer-moore search algorithms written in C.
 ## Test yourself
 Clone the respository<br>
